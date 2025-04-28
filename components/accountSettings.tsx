@@ -34,7 +34,7 @@ export default function AccountSettings() {
             </div>
 
             <div>
-              <h2 className="text-lg font-semibold text-gray-800">Marry Doe</h2>
+              <h2 className="text-xl font-semibold text-gray-800">Marry Doe</h2>
               <p className="text-gray-600">Marry@Gmail.Com</p>
             </div>
           </div>

@@ -27,7 +27,7 @@ export default function Signup() {
     <div className="w-screen h-screen flex justify-center items-center">
       <div className=" bg-gray-100/50 h-[80%] w-[80%] max-w-3xl md:w-full flex sm:justify-center justify-between gap-4 flex-col md:p-8 p-4 rounded-md">
         <div className="space-y-2">
-          <h1 className="text-lg sm:text-3xl font-bold text-gray-900 mb-2">
+          <h1 className="text-xl sm:text-3xl font-bold text-gray-900 mb-2">
             Create your PopX account
           </h1>
 

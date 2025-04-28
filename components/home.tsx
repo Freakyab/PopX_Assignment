@@ -5,7 +5,7 @@ function Home() {
   return (
     <div className="w-screen h-screen flex justify-center items-center">
       <div className="bg-gray-100/50 h-[80%] md:h-2/3 w-[80%] max-w-3xl md:w-full flex justify-end sm:justify-center space-y-2 flex-col p-4 md:p-8 rounded-md shadow-sm ">
-        <h1 className="font-semibold text-lg sm:text-3xl">Welcome To PopX</h1>
+        <h1 className="font-semibold text-xl sm:text-3xl">Welcome To PopX</h1>
         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
         <div className="flex flex-col gap-2 mt-4 text-xs sm:text-sm transition-colors duration-200 ease-in-out">
           <button
