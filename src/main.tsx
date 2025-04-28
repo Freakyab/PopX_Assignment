@@ -5,6 +5,6 @@ import Paths from "../components/paths";
 
 createRoot(document.getElementById("root")!).render(
   <StrictMode>
-    < Paths/>
+    <Paths />
   </StrictMode>
 );
