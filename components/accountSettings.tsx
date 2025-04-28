@@ -12,11 +12,11 @@ export default function AccountSettings() {
           <div className="flex items-start space-x-4">
             <div className="relative">
               <div className="w-20 h-20 rounded-full overflow-hidden">
-                {/* <img
+                <img
                   src="/image.png"
                   alt="Profile"
                   className="w-full h-full object-cover"
-                /> */}
+                />
               </div>
               <div className="absolute bottom-0 right-0 bg-purple-600 rounded-full p-1">
                 <svg
